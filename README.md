@@ -1,5 +1,4 @@
 # PR Checklist
----
 ## Introduction
 The purpose of this repo is to create a base standard template to help with doing code reviews for pull requests.
 

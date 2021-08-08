@@ -1,5 +1,5 @@
 # PR Checklist
----
+Please consider the following points when reviewing PRs
 ## Improves Codebase
 - [ ] Does the change improve the overall codebase quality?
 - [ ] Does the change have impact on the users?
